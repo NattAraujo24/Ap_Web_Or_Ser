@@ -1,0 +1,172 @@
+[
+  {
+
+    "name": "natalia",
+    "lastname": "araujo",
+    "curp":"ARGN030824",
+    "birthday": "2003-08-24",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN015"
+
+  },
+
+ {
+
+    "name": "ximena",
+    "lastname": "garcia",
+    "curp":"GAGX950814",
+    "birthday": "1995-08-14",
+    "docente_numemp": 123,
+    "estudiante_matri": null
+
+  },
+
+{
+
+    "name": "jesus",
+    "lastname": "celis",
+    "curp":"GACJ001206",
+    "birthday": "2003-12-06",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN018"
+
+  },
+
+{
+
+    "name": "maria",
+    "lastname": "bahena",
+    "curp":"BAAM031207",
+    "birthday": "2003-12-07",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN016"
+
+  },
+
+{
+
+    "name": "daniel",
+    "lastname": "reyes",
+    "curp":"RERD031208",
+    "birthday": "2003-12-08",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN017"
+
+  },
+
+{
+
+    "name": "maya",
+    "lastname": "gomez",
+    "curp":"GORM031106",
+    "birthday": "2003-11-06",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN019"
+
+  },
+
+{
+
+    "name": "nicolas",
+    "lastname": "jimenez",
+    "curp":"JIGN031006",
+    "birthday": "2003-10-06",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN001"
+
+  },
+
+{
+
+    "name": "rose",
+    "lastname": "rocha",
+    "curp":"ROGR031206",
+    "birthday": "2003-12-06",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN002"
+
+  },
+
+  {
+
+    "name": "felix",
+    "lastname": "benitez",
+    "curp":"BEHF031209",
+    "birthday": "2003-12-09",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN003"
+
+  },
+  {
+
+    "name": "Juan",
+    "lastname": "solis",
+    "curp":"SOGJ031205",
+    "birthday": "2003-12-05",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN004"
+
+  },
+  {
+
+    "name": "pablo",
+    "lastname": "solaz",
+    "curp":"SOTP031204",
+    "birthday": "2003-12-04",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN005"
+
+  },
+  {
+
+    "name": "said",
+    "lastname": "rojas",
+    "curp":"RORS031203",
+    "birthday": "2003-12-03",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN006"
+
+  },
+  {
+
+    "name": "cesar",
+    "lastname": "martinez",
+    "curp":"MAAC031202",
+    "birthday": "2003-12-02",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN007"
+
+  },
+  {
+
+    "name": "miguel",
+    "lastname": "moreno",
+    "curp":"MOVM031201",
+    "birthday": "2003-12-01",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN008"
+
+  },
+{
+
+    "name": "samuel",
+    "lastname": "lopez",
+    "curp":"LODS030906",
+    "birthday": "2003-09-06",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN009"
+
+  },
+
+{
+
+    "name": "liliana",
+    "lastname": "soberanes",
+    "curp":"SOBL030606",
+    "birthday": "2003-06-06",
+    "docente_numemp": null,
+    "estudiante_matri": "20213TN010"
+
+  },
+
+]
